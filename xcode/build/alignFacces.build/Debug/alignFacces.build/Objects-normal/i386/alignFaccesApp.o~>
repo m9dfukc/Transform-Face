@@ -1,0 +1,2 @@
+/Users/m9dfukc/Documents/Cinder/Applications/alignFacces/xcode/../src/alignFaccesApp.cpp: In member function 'virtual void alignFaccesApp::draw()':
+/Users/m9dfukc/Documents/Cinder/Applications/alignFacces/xcode/../src/alignFaccesApp.cpp:122: error: 'res' was not declared in this scope
